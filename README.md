@@ -22,6 +22,7 @@ App Nodepop [http://nodepop.santiagorodriguez.xyz/](http://nodepop.santiagorodri
 9) Instalar pm2 para gestion del proceso de la aplicacion de nodejs
 10) Configurar pm2 para que salve las app y se arranque desde el principio.
 11) Desde el user ubuntu modificacion para que carge los estaticos desde nginx en vez de nodejs, añadido x-owner: https://github.com/Danteboxs
+12) Instalacion de fail2ban
 
 Notas:
 El https queda deshabilitado debido a que la aplicacion de nodepop cargaba urls http y las bloqueaba por temas de mezclar protocolos no seguros.
