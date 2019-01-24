@@ -2,6 +2,7 @@
 devops
 
 ### Urls
+Página estática [http://18.188.88.231/](http://18.188.88.231/)
 
 Página estática [http://www.santiagorodriguez.xyz/](http://www.santiagorodriguez.xyz/)
 
